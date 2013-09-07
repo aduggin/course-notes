@@ -48,19 +48,36 @@ Commands show in the video:
 | Command        | Description         |
 | ------------- |-------------|
 | tree | output a directory listing in a tree format. |
+| git rm robots.txt | Remove a file (from your working directory and from the git index) |
+| git count-objects | count how many objects are in the repository |
 | cmd | desc |
-| cmd | desc |
-| cmd | desc |
+
+Git add is what adds the content into the repository
+The commit adds the commit object and the tree object
+
 
 Related commands:
 
 | Command        | Description         |
 | ------------- |-------------|
 | brew install tree | install tree |
-| cmd | desc |
-| cmd | desc |
+
+
+
+## chapter_title
+
+Commands show in the video:
+
+| Command        | Description         |
+| ------------- |-------------|
 | cmd | desc |
 
+
+Related commands:
+
+| Command        | Description         |
+| ------------- |-------------|
+| cmd | desc |
 
 
 

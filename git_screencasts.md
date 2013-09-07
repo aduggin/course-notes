@@ -41,6 +41,28 @@ Related commands:
 | git commit -am "Updated my tracked file" | add and commit a tracked with a message|
 | git log git_screencasts.md | show the commit history of a file|
 
+## Normal Workflow
+
+Commands show in the video:
+
+| Command        | Description         |
+| ------------- |-------------|
+| tree | output a directory listing in a tree format. |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+
+Related commands:
+
+| Command        | Description         |
+| ------------- |-------------|
+| brew install tree | install tree |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+
+
+
 
 
 

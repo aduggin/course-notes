@@ -39,6 +39,7 @@ Related commands:
 | git add git_screencasts.md     | add the contents of a particular file to the staging area |
 | git commit -m "This is the first commit" | add a message to the commit (without opening an editor)|
 | git commit -am "Updated my tracked file" | add and commit a tracked with a message|
+| git log git_screencasts.md | show the commit history of a file|
 
 
 

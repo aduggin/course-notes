@@ -17,6 +17,9 @@ Commands show in the video:
 
 | Command        | Description         |
 | ------------- |-------------|
+| git config --global user.name 'Al Duggin'     | Setup a git configurations globally |
+| git config user.name     | Output a git configuration |
+| cat ~./gitconfig| show the contents of gitconfig|
 | git init     | initializes a directory as a Git repository |
 | find .git/      | list everything in the repository      |
 | git status      | view the status of your files in the working directory and staging area      |
@@ -25,14 +28,17 @@ Commands show in the video:
 | git ls-files --stage      | list the files in the index with extra details      |
 | git commit      | records a snapshot of the staging area      |
 | git log      | show the commit history      |
+| git clone {uri}      | clone a repository      |
 
 
 Related commands:
 
 | Command        | Description         |
 | ------------- |-------------|
+| git config -l     | list all git configurations |
 | git add git_screencasts.md     | add the contents of a particular file to the staging area |
-
+| git commit -m "This is the first commit" | add a message to the commit (without opening an editor)|
+| git commit -am "Updated my tracked file" | add and commit a tracked with a message|
 
 
 

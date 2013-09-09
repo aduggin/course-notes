@@ -80,7 +80,7 @@ Related commands:
 | cmd | desc |
 
 
-## Branching and Merging
+## 6. Branching and Merging
 
 Commands show in the video:
 
@@ -105,7 +105,31 @@ Related commands:
 
 | Command        | Description         |
 | ------------- |-------------|
+| git show-branch | show branches and their commits |
+
+
+## 7. Rebase
+
+Commands show in the video:
+
+| Command        | Description         |
+| ------------- |-------------|
 | cmd | desc |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+| cmd | desc |
+
+
+Related commands:
+
+| Command        | Description         |
+| ------------- |-------------|
+| cmd | desc |
+
 
 
 ## chapter_title

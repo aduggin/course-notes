@@ -11,7 +11,7 @@ by Scott Chacon
 8. [Distributed Workflow](http://www.youtube.com/watch?v=KWNIKb6sftw)
 9. [Creating Empty Branches](http://www.youtube.com/watch?v=vf8NVmLcqT8)
 
-## Setup and Init
+## 1.Setup and Init
 
 Commands show in the video:
 
@@ -41,7 +41,7 @@ Related commands:
 | git commit -am "Updated my tracked file" | add and commit a tracked with a message|
 | git log git_screencasts.md | show the commit history of a file|
 
-## Normal Workflow
+## 2. Normal Workflow
 
 Commands show in the video:
 
@@ -62,6 +62,50 @@ Related commands:
 | ------------- |-------------|
 | brew install tree | install tree |
 
+
+
+## 3. Add Interactive
+
+Commands show in the video:
+
+| Command        | Description         |
+| ------------- |-------------|
+| git add i | desc |
+
+
+Related commands:
+
+| Command        | Description         |
+| ------------- |-------------|
+| cmd | desc |
+
+
+## Branching and Merging
+
+Commands show in the video:
+
+| Command        | Description         |
+| ------------- |-------------|
+| git branch | Show which branches there are and which one you are on |
+| git branch blue | Create a new branch called blue |
+| git branch -b email | Create a new branch called email and switch to it |
+| git branch -b fixicon master| Create a new branch called fixicon based on the matser branch and switch to it |
+| git log --oneline --graph --all | show graph of everything that is reachable in our history|
+| git log --oneline --graph --decorate --all | show graph of everything that is reachable in our history and show your branches |
+| git merge carousel | merge the branch 'carousel' into the current branch |
+| git branch --merged | show the branches that have been merged|
+| git branch --no-merge | show which branches haven't been merged yet |
+| git branch -d blue | delete the blue branch|
+| git branch -d blue email fixicon | delete multiple branches |
+| git tag -a v1.0| tag current commit as 'v1.0' and add a tag message |
+| git show| |
+
+
+Related commands:
+
+| Command        | Description         |
+| ------------- |-------------|
+| cmd | desc |
 
 
 ## chapter_title
